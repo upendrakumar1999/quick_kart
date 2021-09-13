@@ -19,7 +19,7 @@ a fully-functional e-commerce website exactly like amazon using MERN stack (Mong
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/amazona.git
+$ git clone git@github.com:upendrakumar1999/quick_kart.git
 $ cd amazona
 ```
 
